@@ -1,4 +1,4 @@
-# 💣Mine Sweeper (WEB ver.) 
+# 💣Mine Sweeper
 
 이 프로젝트는 지뢰찾기 게임을 웹 기반으로 구현한 것입니다.  
 
