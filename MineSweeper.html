@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="MineSweeper.css">
+</head>
+
+<body>
+    <header>
+        <h1>Mine Sweeper</h1>
+    </header>
+    <main>
+        <section class="setting">
+            <label>필드 크기 :
+                <input type="text" id="fieldSizeInput" placeholder="2~100" oninput="placeholder_mineCount(this)">
+            </label><br>
+            <label>지뢰 개수 :
+                <input type="text" id="mineCountInput" placeholder="필드 크기를 입력해주세요">
+            </label><br>
+            <button id="makeBtn" style="font-size: 15px; float:right">시작</button>
+        </section>
+        <section class="field">
+            <div id="fieldContainer"></div>
+        </section>
+    </main>
+
+    <script src="MineSweeper.js"></script>
+</body>
+
+</html>
