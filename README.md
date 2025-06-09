@@ -2,6 +2,8 @@
 
 이 프로젝트는 지뢰찾기 게임을 웹 기반으로 구현한 것입니다.  
 
+##### 제작날짜 2025.04.12
+
 <br>
 
 ## 🛠 기술스택
@@ -62,8 +64,15 @@ class Tile {
 |게임 클리어|<img src="https://github.com/user-attachments/assets/5563fb65-e96d-49cb-84e1-b019b2e8f1e2">|
 
 ---
+<br>
 
-## 📂 기타
+## 🎮 플레이해 보세요!
+<br>
 
-- 실행은 브라우저에서 `MineSweeper.html`을 열어 확인 가능합니다.
-- 제작 날짜 : 2025.04.12
+👉 [**Legend of Poly 지금 플레이하기** 🚀](https://waltdev29.github.io/LegendOfPoly/)
+
+<br>
+
+## 📃 라이선스
+
+본 프로젝트는 자유롭게 수정/재배포할 수 있습니다. 학습 및 개인 포트폴리오 용도로 사용 가능합니다.  
