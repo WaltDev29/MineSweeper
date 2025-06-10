@@ -69,7 +69,7 @@ class Tile {
 ## 🎮 플레이해 보세요!
 <br>
 
-👉 [**Legend of Poly 지금 플레이하기** 🚀](https://waltdev29.github.io/LegendOfPoly/)
+👉 [**Mine Sweeper 지금 플레이하기** 🚀](https://waltdev29.github.io/MineSweeper/)
 
 <br>
 
